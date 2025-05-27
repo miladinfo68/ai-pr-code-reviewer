@@ -30,5 +30,9 @@ if __name__ == "__main__":
     
 # A simple calculator that performs basic arithmetic operations.
 # added sample 1 
-    
+# added sample 2
+
+# 2222222
+
+   
  
