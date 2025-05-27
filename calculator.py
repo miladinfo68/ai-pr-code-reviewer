@@ -29,5 +29,6 @@ if __name__ == "__main__":
     print(f"Division: {divide(num1, num2)}")
     
 # A simple calculator that performs basic arithmetic operations.
+# added sample 1 
     
  
